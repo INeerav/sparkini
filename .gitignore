@@ -2,3 +2,5 @@
 **/docker/base/postgresql
 **/docker/base/hdfs
 **/docker/base/util/jars
+**/.metals
+**/.scala-build
