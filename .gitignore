@@ -1,0 +1,4 @@
+**/docker/base/mysql
+**/docker/base/postgresql
+**/docker/base/hdfs
+**/docker/base/util/jars
